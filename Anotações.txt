@@ -1,0 +1,9 @@
+class para div
+container 
+
+class para table
+table -------------------------- [Cria tabulação]
+table-condensed ---------------- [Ajusta as linhas]
+table-striped ------------------ [Cor sim, cor não]
+table-bordered ----------------- [Borda na tabela]
+table-hover -------------------- [Efeito]
